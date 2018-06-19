@@ -6,8 +6,9 @@ const Banner = ({ src }) => {
 
 	return(
 		<Image
+			as='a'
 	    src={src}
-	    
+	    href='https://www.apple.com/'
 	  />
 	)
 }

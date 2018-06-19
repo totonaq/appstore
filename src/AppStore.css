@@ -1,6 +1,3 @@
-header {
-  text-align: center;
-}
 ul {
   list-style-type: none;
   -webkit-padding-start: 0px;
@@ -8,12 +5,33 @@ ul {
 ol {
   -webkit-padding-start: 20px;
 }
+
+
+header {
+  text-align: center;
+}
 header .buttons-wrap {
   padding: 20px;
 }
+
+
 .glide__slide-img {
   width: 100%;
 }
+.glide__arrows .custom-arrow-class {
+  background-color: #222;
+  border-color: #fff;
+  border-radius: 50%;
+  display: none;
+  padding: 6px 8px;
+  opacity: .8;
+  top: 70%;
+}
+.glide:hover .glide__arrows .custom-arrow-class {
+  display: block;
+}
+
+
 .icons-collection button {
   background: none;
   border: none;
@@ -22,7 +40,6 @@ header .buttons-wrap {
   float: right;
   outline: none;
 }
-
 .icons-collection button:hover {
   text-decoration: underline;
 }
@@ -32,17 +49,6 @@ header .buttons-wrap {
   margin: 20px 0;
   overflow-x: scroll;
   padding-bottom: 20px;
-}
-
-.banners-collection-wrap {
-  clear: both;
-  margin: 20px 0;
-  overflow-x: scroll;
-  padding-bottom: 20px;
-}
-.banners-collection-list {
-  display: flex;
-  width: 100%;
 }
 .icons-collection-list-item,
 .banners-collection-list-item {
@@ -56,10 +62,6 @@ header .buttons-wrap {
 .modal-collection img {
   border-radius: 15px;
   width: 100%;
-}
-.banners-collection-list-item img {
-  border-radius: 5px;
-  min-width: 300px;
 }
 .icons-collection-list-item-title{
   margin: 0;
@@ -93,9 +95,28 @@ header .buttons-wrap {
   margin: 0;
 }
 
+
+.banners-collection-wrap {
+  clear: both;
+  margin: 20px 0;
+  overflow-x: scroll;
+  padding-bottom: 20px;
+}
+.banners-collection-list {
+  display: flex;
+  width: 100%;
+}
+.banners-collection-list-item img {
+  border-radius: 5px;
+  min-width: 300px;
+}
+
+
 .modal-collection {
   padding: 30px;
 }
+
+
 .top .top-header {
   cursor: pointer;
 }
@@ -108,16 +129,4 @@ header .buttons-wrap {
 .top-descr {
   display: inline-block;
   vertical-align: top;
-}
-.glide__arrows .custom-arrow-class {
-  background-color: #222;
-  border-color: #fff;
-  border-radius: 50%;
-  display: none;
-  padding: 6px 8px;
-  opacity: .8;
-  top: 70%;
-}
-.glide:hover .glide__arrows .custom-arrow-class {
-  display: block;
 }

@@ -9,12 +9,13 @@ const Switcher = ({ currentDevice, onclick }) => {
 			<Button.Group>
 		    <Button
 		    	onClick={() => onclick('iphone')}
-		    	positive={currentDevice === 'iphone'}>iPhone
+		    	primary={currentDevice === 'iphone'}
+		    	>iPhone
 		    </Button>
 		    <Button.Or text='or' />
 		    <Button
 		    	onClick={() => onclick('ipad')}
-		    	positive={currentDevice === 'ipad'}>iPad
+		    	primary={currentDevice === 'ipad'}>iPad
 		    </Button>
 		  </Button.Group>
 		</div>

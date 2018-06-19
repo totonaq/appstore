@@ -14,7 +14,6 @@ const Icon = ({ data, children, size }) => {
 		    as='a'
 		    href={link}
 		    size={size}
-
 		  />
 			
 			<p className="icons-collection-list-item-title">

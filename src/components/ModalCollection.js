@@ -1,11 +1,14 @@
 import React from 'react'
 import { Grid } from 'semantic-ui-react'
 import Icon from './Icon'
+import { Header, Divider } from 'semantic-ui-react'
 import PropTypes from 'prop-types'
 
-const ModalCollection = ({ data }) => {
+const ModalCollection = ({ title, data }) => {
 	return(
 		<div className="modal-collection">
+			<Header as='h3' color='grey'>{title}</Header>
+			<Divider />
 			<Grid divided='vertically'>
 				<Grid.Row columns={6}>
 					{
@@ -13,16 +16,17 @@ const ModalCollection = ({ data }) => {
 							return (
 
 								<Grid.Column key={idx}>
-
 									<Icon data={icon} size='small'>
-										<p className="modal-collection-price">{icon.price}</p>
+										<div>
+											<p className="modal-collection-price">{icon.price}</p>
 
-										{
-											icon["in-app-purchase"] &&
-												<p className="modal-collection-purchase">Встроенные покупки</p>
-										}
+											{
+												icon["in-app-purchase"] &&
+													<p className="modal-collection-purchase">Встроенные покупки</p>
+											}
+
+										</div>
 									</Icon>
-
 								</Grid.Column>
 							)
 						})
@@ -35,11 +39,13 @@ const ModalCollection = ({ data }) => {
 }
 
 ModalCollection.defaultProps = {
-	data: []
+	data: [],
+	title: ''
 }
 
 ModalCollection.propTypes = {
-	data: PropTypes.array.isRequired
+	data: PropTypes.array.isRequired,
+	title: PropTypes.string.isRequired
 }
 
 export default ModalCollection

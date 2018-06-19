@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
-import Glide, { Controls } from '@glidejs/glide/dist/glide.modular.esm'
+import Glide, { Controls, Autoplay } from '@glidejs/glide/dist/glide.modular.esm'
+import { Image } from 'semantic-ui-react'
 import img1 from '../slides/slide1.jpg'
 import img2 from '../slides/slide2.jpg'
 import img3 from '../slides/slide3.jpeg'
@@ -7,6 +8,7 @@ import prev from '../slides/controls/back.svg'
 import next from '../slides/controls/next.svg'
 
 class Slider extends Component {
+	
 	componentDidMount() {
 
 		const peek = this.glide.clientWidth / 4
@@ -21,7 +23,7 @@ class Slider extends Component {
 		  },
 		  gap: 6
 
-		}).mount({Controls})
+		}).mount({Controls, Autoplay})
 
 	}
 
@@ -34,27 +36,30 @@ class Slider extends Component {
 	}
 
 	render() {
+
+		const link = 'https://www.apple.com/'
+
 		return (
 			<div className="glide" ref={this.getRef}>
 			  <div data-glide-el="track" className="glide__track">
 			    <ul className="glide__slides">
 			      <li className="glide__slide">
-			      	<img className="glide__slide-img" src={img1} alt='slide'/>
+				      <Image src={img1} as='a' href={link} className="glide__slide-img" />
 			      </li>
 			      <li className="glide__slide">
-			      	<img className="glide__slide-img" src={img2} alt='slide'/>
+			      	<Image src={img2} as='a' href={link} className="glide__slide-img" />
 			      </li>
 			      <li className="glide__slide">
-			      	<img className="glide__slide-img" src={img3} alt='slide'/>
+			      	<Image src={img3} as='a' href={link} className="glide__slide-img" />
 			      </li>
 			      <li className="glide__slide">
-			      	<img className="glide__slide-img" src={img1} alt='slide'/>
+			      	<Image src={img1} as='a' href={link} className="glide__slide-img" />
 			      </li>
 			      <li className="glide__slide">
-			      	<img className="glide__slide-img" src={img2} alt='slide'/>
+			      	<Image src={img2} as='a' href={link} className="glide__slide-img" />
 			      </li>
 			      <li className="glide__slide">
-			      	<img className="glide__slide-img" src={img3} alt='slide'/>
+			      	<Image src={img3} as='a' href={link} className="glide__slide-img" />
 			      </li>
 			    </ul>
 			  </div>

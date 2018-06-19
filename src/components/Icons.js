@@ -19,7 +19,7 @@ const IconsCollection = ({ title, currentDevice, category }) => {
 
 			<Modal trigger={<button>См. все ></button>}>
 
-				<ModalCollection data={icons} />
+				<ModalCollection title={title} data={icons} />
 
 		  </Modal>
 	    <ul className="icons-collection-list">
