@@ -1,0 +1,570 @@
+{
+	"iphone": {
+		"new": [
+			{
+				"title" : "minecraft",
+				"category": "Games",
+				"src": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/2e/34/9e/2e349ead-d1f8-8998-edb0-4f8ddd9ce451/mzl.ytvqcsfj.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/minecraft/id479516143?mt=8",
+				"price": "$6.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Bloons TD 6",
+				"category": "Games",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/3e/a8/2e/3ea82ed3-9c10-9dc5-c7e8-8ae1d68acd03/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/bloons-td-6/id1118115766?mt=8",
+				"price": "$4.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Heads Up!",
+				"category": "Games",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/72/e3/72/72e37205-d35e-5e47-669b-7215efafedff/AppIcon-1x_U007emarketing-85-220-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/bloons-td-6/id1118115766?mt=8",
+				"price": "$0.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Plague Inc.",
+				"category": "Games",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/82/73/ac/8273ac6c-b4e8-91d2-cacf-e0963fa06afe/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/plague-inc/id525818839?mt=8",
+				"price": "$0.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Facetune",
+				"category": "Photo & Video",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/3e/70/ed/3e70edf5-d409-7fcb-2470-dfb2cfe304a0/AppIcon-1x_U007emarketing-85-220-2.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/facetune/id606310581?mt=8",
+				"price": "$3.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "HotSchedules",
+				"category": "Business",
+				"src": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/6b/b8/21/6bb82109-1bb5-4f99-64bc-a4d223a4d892/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/hotschedules/id294934058?mt=8",
+				"price": "$2.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "PlantSnap Plant Identification",
+				"category": "Education",
+				"src": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c6/5e/68/c65e686d-7ea2-eb6b-0645-ed56a8c1a000/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/plantsnap-plant-identification/id1234702272?mt=8",
+				"price": "$3.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "Telemundo Deportes - En Vivo",
+				"category": "Sports",
+				"src": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/74/67/16/746716a8-ef1c-bb7a-dc47-c512d973ea68/wc-appIcon-1x_U007emarketing-0-P3-85-220-0-8.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/telemundo-deportes-en-vivo/id686218010?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "Hole.io",
+				"category": "Games",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b4/3e/f7/b43ef74d-760e-264b-e652-fff35476de7f/AppIcon-1x_U007emarketing-0-85-220-0-8.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/hole-io/id1389111413?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Google Maps - GPS Navigation",
+				"category": "Navigation",
+				"src": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/ed/b6/ef/edb6efbe-c55d-a5da-b658-d8550bca85d2/logo_maps_ios_color-1x_U007emarketing-85-220-0-5.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/google-maps-gps-navigation/id585027354?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "FOX Sports: FIFA World Cup™",
+				"category": "Sports",
+				"src": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/76/4f/6c/764f6c55-631f-e189-1f8b-0b387c8d1718/AppIcons-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/fox-sports-fifa-world-cup/id294056623?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "ARK: Survival Evolved",
+				"category": "Games",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/be/5a/55/be5a5518-d25a-0d40-6de7-56b9cffc225a/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/ark-survival-evolved/id1280480538?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Twisty Arrow! ",
+				"category": "Games",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/3d/4a/39/3d4a39d8-d1ce-a01b-c045-19ca58999fb9/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/twisty-arrow/id1086379636?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Helix Jump",
+				"category": "Games",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/95/eb/27/95eb274f-80b1-0adb-a9f4-c0b81a628bfb/AppIcon-1x_U007emarketing-0-85-220-0-8.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/helix-jump/id1345968745?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			}
+		],
+
+		"classic": [
+			{
+				"title" : "Geometry Dash",
+				"category": "Games",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/b6/5d/7b/b65d7be5-e14a-433f-bb53-8cc2407e6199/AppIcon-1x_U007emarketing-85-220-9.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/geometry-dash/id625334537?mt=8",
+				"price": "$1.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "Bloons TD 5",
+				"category": "Games",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/0b/96/d2/0b96d2f9-2949-ba32-8fed-149164e445b6/AppIcon-1x_U007emarketing-0-85-220-0-2.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/bloons-td-5/id563718995?mt=8",
+				"price": "$2.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Papa's Бесплатноzeria To Go! ",
+				"category": "Games",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/f4/9a/98/f49a983a-9193-f2cf-2a2e-2400b82e7347/mzl.wvrlfrgz.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/papas-Бесплатноzeria-to-go/id824305459?mt=8",
+				"price": "$0.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "YouTube: Watch, Listen, Stream",
+				"category": "Photo & Video",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/da/e1/3a/dae13af0-24e4-0895-1ed3-071de65cf29a/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/youtube-watch-listen-stream/id544007664?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Instagram",
+				"category": "Photo & Video",
+				"src": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/37/49/7f/37497fe5-a8e7-5518-ace0-1c06b652b15d/Prod-1x_U007emarketing-85-220-0-5.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/instagram/id389801252?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "Messenger",
+				"category": "Social Networking",
+				"src": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/9a/b1/20/9ab12016-c9e1-ae6d-dcfd-5533da99a5fd/Icon-Production-1x_U007emarketing-85-220-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/messenger/id454638411?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "TouchRetouch",
+				"category": "Photo & Video",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/03/d8/f2/03d8f232-6dcb-cab3-fb07-b73c6117efe5/AppIcon-1x_U007emarketing-85-220-0-5.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/touchretouch/id373311252?mt=8",
+				"price": "$1.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "My Talking Pet",
+				"category": "Entertainment",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/62/d3/15/62d315d7-29fc-fcb8-9bd5-0240a672d363/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/my-talking-pet/id662090840?mt=8",
+				"price": "$2.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "Fortnite",
+				"category": "Games",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/d7/e8/d7/d7e8d78a-7a8b-23cc-9d07-a47c2f871bc5/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/fortnite/id1261357853?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Snapchat",
+				"category": "Photo & Video",
+				"src": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/cf/11/b4/cf11b43b-e52c-edb7-19a1-19421941769e/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/snapchat/id447188370?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Facebook",
+				"category": "Social Networking",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/c5/58/5f/c5585f56-f811-79cb-70d4-4399a575ca73/Icon-Production-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/facebook/id284882215?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "NBA 2K18",
+				"category": "Games",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/3e/7e/c1/3e7ec1ef-5280-a09b-15c2-ee63be42fc21/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/nba-2k18/id1232808822?mt=8",
+				"price": "$7.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Pixel Weather - Forecast",
+				"category": "Weather",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/2a/2a/79/2a2a79b0-bffa-05d2-1cbf-b6dda1348cc1/AppIcon-1x_U007emarketing-85-220-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/pixel-weather-forecast/id1278650505?mt=8",
+				"price": "$0.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "Goat Simulator",
+				"category": "Games",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/63/53/9d/63539d03-a926-31f0-77bb-30d2d4c622a7/mzl.jgalnouq.jpg/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/goat-simulator/id868692227?mt=8",
+				"price": "$0.99",
+				"in-app-purchase": true
+			}
+		],
+		"banners-line-1": [
+			{
+				"src": "http://is2.mzstatic.com/image/thumb/Features111/v4/26/60/eb/2660eb6a-366a-28d6-29f6-632b76cdaa49/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is2.mzstatic.com/image/thumb/Features111/v4/26/60/eb/2660eb6a-366a-28d6-29f6-632b76cdaa49/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			}
+		
+			
+		],
+		"banners-line-2": [
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is2.mzstatic.com/image/thumb/Features111/v4/26/60/eb/2660eb6a-366a-28d6-29f6-632b76cdaa49/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is2.mzstatic.com/image/thumb/Features111/v4/26/60/eb/2660eb6a-366a-28d6-29f6-632b76cdaa49/source/400x196fa.jpg"
+			}
+		]
+	},
+	"ipad": {
+		"new": [
+			{
+				"title" : "Telemundo Deportes - En Vivo",
+				"category": "Sports",
+				"src": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/74/67/16/746716a8-ef1c-bb7a-dc47-c512d973ea68/wc-appIcon-1x_U007emarketing-0-P3-85-220-0-8.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/telemundo-deportes-en-vivo/id686218010?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "Hole.io",
+				"category": "Games",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b4/3e/f7/b43ef74d-760e-264b-e652-fff35476de7f/AppIcon-1x_U007emarketing-0-85-220-0-8.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/hole-io/id1389111413?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Google Maps - GPS Navigation",
+				"category": "Navigation",
+				"src": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/ed/b6/ef/edb6efbe-c55d-a5da-b658-d8550bca85d2/logo_maps_ios_color-1x_U007emarketing-85-220-0-5.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/google-maps-gps-navigation/id585027354?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "FOX Sports: FIFA World Cup™",
+				"category": "Sports",
+				"src": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/76/4f/6c/764f6c55-631f-e189-1f8b-0b387c8d1718/AppIcons-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/fox-sports-fifa-world-cup/id294056623?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "ARK: Survival Evolved",
+				"category": "Games",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/be/5a/55/be5a5518-d25a-0d40-6de7-56b9cffc225a/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/ark-survival-evolved/id1280480538?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Twisty Arrow! ",
+				"category": "Games",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/3d/4a/39/3d4a39d8-d1ce-a01b-c045-19ca58999fb9/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/twisty-arrow/id1086379636?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Helix Jump",
+				"category": "Games",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/95/eb/27/95eb274f-80b1-0adb-a9f4-c0b81a628bfb/AppIcon-1x_U007emarketing-0-85-220-0-8.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/helix-jump/id1345968745?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "minecraft",
+				"category": "Games",
+				"src": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/2e/34/9e/2e349ead-d1f8-8998-edb0-4f8ddd9ce451/mzl.ytvqcsfj.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/minecraft/id479516143?mt=8",
+				"price": "$6.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Bloons TD 6",
+				"category": "Games",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/3e/a8/2e/3ea82ed3-9c10-9dc5-c7e8-8ae1d68acd03/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/bloons-td-6/id1118115766?mt=8",
+				"price": "$4.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Heads Up!",
+				"category": "Games",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/72/e3/72/72e37205-d35e-5e47-669b-7215efafedff/AppIcon-1x_U007emarketing-85-220-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/bloons-td-6/id1118115766?mt=8",
+				"price": "$0.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Plague Inc.",
+				"category": "Games",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/82/73/ac/8273ac6c-b4e8-91d2-cacf-e0963fa06afe/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/plague-inc/id525818839?mt=8",
+				"price": "$0.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Facetune",
+				"category": "Photo & Video",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/3e/70/ed/3e70edf5-d409-7fcb-2470-dfb2cfe304a0/AppIcon-1x_U007emarketing-85-220-2.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/facetune/id606310581?mt=8",
+				"price": "$3.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "HotSchedules",
+				"category": "Business",
+				"src": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/6b/b8/21/6bb82109-1bb5-4f99-64bc-a4d223a4d892/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/hotschedules/id294934058?mt=8",
+				"price": "$2.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "PlantSnap Plant Identification",
+				"category": "Education",
+				"src": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c6/5e/68/c65e686d-7ea2-eb6b-0645-ed56a8c1a000/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/plantsnap-plant-identification/id1234702272?mt=8",
+				"price": "$3.99",
+				"in-app-purchase": false
+			}
+		],
+
+		"classic": [
+			{
+				"title" : "Snapchat",
+				"category": "Photo & Video",
+				"src": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/cf/11/b4/cf11b43b-e52c-edb7-19a1-19421941769e/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/snapchat/id447188370?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Facebook",
+				"category": "Social Networking",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/c5/58/5f/c5585f56-f811-79cb-70d4-4399a575ca73/Icon-Production-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/facebook/id284882215?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "NBA 2K18",
+				"category": "Games",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/3e/7e/c1/3e7ec1ef-5280-a09b-15c2-ee63be42fc21/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/nba-2k18/id1232808822?mt=8",
+				"price": "$7.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Pixel Weather - Forecast",
+				"category": "Weather",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/2a/2a/79/2a2a79b0-bffa-05d2-1cbf-b6dda1348cc1/AppIcon-1x_U007emarketing-85-220-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/pixel-weather-forecast/id1278650505?mt=8",
+				"price": "$0.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "Goat Simulator",
+				"category": "Games",
+				"src": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/63/53/9d/63539d03-a926-31f0-77bb-30d2d4c622a7/mzl.jgalnouq.jpg/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/goat-simulator/id868692227?mt=8",
+				"price": "$0.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Geometry Dash",
+				"category": "Games",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/b6/5d/7b/b65d7be5-e14a-433f-bb53-8cc2407e6199/AppIcon-1x_U007emarketing-85-220-9.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/geometry-dash/id625334537?mt=8",
+				"price": "$1.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "Bloons TD 5",
+				"category": "Games",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/0b/96/d2/0b96d2f9-2949-ba32-8fed-149164e445b6/AppIcon-1x_U007emarketing-0-85-220-0-2.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/bloons-td-5/id563718995?mt=8",
+				"price": "$2.99",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Papa's Бесплатноzeria To Go! ",
+				"category": "Games",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/f4/9a/98/f49a983a-9193-f2cf-2a2e-2400b82e7347/mzl.wvrlfrgz.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/papas-Бесплатноzeria-to-go/id824305459?mt=8",
+				"price": "$0.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "YouTube: Watch, Listen, Stream",
+				"category": "Photo & Video",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/da/e1/3a/dae13af0-24e4-0895-1ed3-071de65cf29a/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/youtube-watch-listen-stream/id544007664?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			},
+			{
+				"title" : "Instagram",
+				"category": "Photo & Video",
+				"src": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/37/49/7f/37497fe5-a8e7-5518-ace0-1c06b652b15d/Prod-1x_U007emarketing-85-220-0-5.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/instagram/id389801252?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "Messenger",
+				"category": "Social Networking",
+				"src": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/9a/b1/20/9ab12016-c9e1-ae6d-dcfd-5533da99a5fd/Icon-Production-1x_U007emarketing-85-220-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/messenger/id454638411?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "TouchRetouch",
+				"category": "Photo & Video",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/03/d8/f2/03d8f232-6dcb-cab3-fb07-b73c6117efe5/AppIcon-1x_U007emarketing-85-220-0-5.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/touchretouch/id373311252?mt=8",
+				"price": "$1.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "My Talking Pet",
+				"category": "Entertainment",
+				"src": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/62/d3/15/62d315d7-29fc-fcb8-9bd5-0240a672d363/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/my-talking-pet/id662090840?mt=8",
+				"price": "$2.99",
+				"in-app-purchase": false
+			},
+			{
+				"title" : "Fortnite",
+				"category": "Games",
+				"src": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/d7/e8/d7/d7e8d78a-7a8b-23cc-9d07-a47c2f871bc5/AppIcon-1x_U007emarketing-85-220-0-6.png/53x53bb.png",
+				"link": "https://itunes.apple.com/us/app/fortnite/id1261357853?mt=8",
+				"price": "Бесплатно",
+				"in-app-purchase": true
+			}
+		],
+		"banners-line-1": [
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is2.mzstatic.com/image/thumb/Features111/v4/26/60/eb/2660eb6a-366a-28d6-29f6-632b76cdaa49/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is2.mzstatic.com/image/thumb/Features111/v4/26/60/eb/2660eb6a-366a-28d6-29f6-632b76cdaa49/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			}
+		],
+		"banners-line-2": [
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is2.mzstatic.com/image/thumb/Features111/v4/26/60/eb/2660eb6a-366a-28d6-29f6-632b76cdaa49/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is2.mzstatic.com/image/thumb/Features111/v4/26/60/eb/2660eb6a-366a-28d6-29f6-632b76cdaa49/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is4.mzstatic.com/image/thumb/Features127/v4/de/8c/9e/de8c9eb1-cb1e-2c50-00e0-063deafe6bf6/source/400x196fa.jpg"
+			},
+			{
+				"src": "http://is1.mzstatic.com/image/thumb/Features122/v4/49/fa/3f/49fa3f55-fa58-f57c-01db-cf356d068cfb/source/400x196fa.jpg"
+			}
+		]
+	}
+}

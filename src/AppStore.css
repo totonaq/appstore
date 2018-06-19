@@ -1,0 +1,123 @@
+header {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  -webkit-padding-start: 0px;
+}
+ol {
+  -webkit-padding-start: 20px;
+}
+header .buttons-wrap {
+  padding: 20px;
+}
+.glide__slide-img {
+  width: 100%;
+}
+.icons-collection button {
+  background: none;
+  border: none;
+  color: #767676;
+  cursor: pointer;
+  float: right;
+  outline: none;
+}
+
+.icons-collection button:hover {
+  text-decoration: underline;
+}
+.icons-collection-list {
+  clear: both;
+  display: flex;
+  margin: 20px 0;
+  overflow-x: scroll;
+  padding-bottom: 20px;
+}
+
+.banners-collection-wrap {
+  clear: both;
+  margin: 20px 0;
+  overflow-x: scroll;
+  padding-bottom: 20px;
+}
+.banners-collection-list {
+  display: flex;
+  width: 100%;
+}
+.icons-collection-list-item,
+.banners-collection-list-item {
+  padding: 10px;
+}
+.icons-collection-list-item:first-child,
+.banners-collection-list-item:first-child {
+  padding-left: 0;
+}
+.icons-collection-list-item img,
+.modal-collection img {
+  border-radius: 15px;
+  width: 100%;
+}
+.banners-collection-list-item img {
+  border-radius: 5px;
+  min-width: 300px;
+}
+.icons-collection-list-item-title{
+  margin: 0;
+  padding: 5px 0;
+}
+.icons-collection-list-item-price,
+.modal-collection-price {
+  border: 1px solid #767676;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 12px;
+  margin: 5px 0;
+  padding: 0 5px;
+}
+.icons-collection-list-item-title__link,
+.top-descr__link {
+  color: #222;
+  font-size: 14px;
+}
+.icons-collection-list-item-title__link:hover,
+.top-descr__link:hover {
+  color: #222;
+  text-decoration: underline;
+}
+.icons-collection-list-item-cat,
+.icons-collection-list-item-purchase,
+.modal-collection-purchase,
+.top-descr__cat {
+  color: #777;
+  font-size: 12px;
+  margin: 0;
+}
+
+.modal-collection {
+  padding: 30px;
+}
+.top .top-header {
+  cursor: pointer;
+}
+.top .top-header:hover {
+  text-decoration: underline;
+}
+.top-icon {
+  margin-right: 10px;
+}
+.top-descr {
+  display: inline-block;
+  vertical-align: top;
+}
+.glide__arrows .custom-arrow-class {
+  background-color: #222;
+  border-color: #fff;
+  border-radius: 50%;
+  display: none;
+  padding: 6px 8px;
+  opacity: .8;
+  top: 70%;
+}
+.glide:hover .glide__arrows .custom-arrow-class {
+  display: block;
+}
