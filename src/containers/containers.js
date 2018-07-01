@@ -5,7 +5,7 @@ import Banners from './../components/Banners'
 import Top from './../components/Top'
 import { setCurrentDevice } from './../actions'
 
-import { getIcons, getBanners } from '../selectors'
+import { makeGetIcons, getBanners } from '../selectors'
 
 export const SwitcherBlock = connect(
 
@@ -24,12 +24,13 @@ export const SwitcherBlock = connect(
 export const IconCollection = connect(
 	
 	(state, ownProps) => {
-
+		const getIcons = makeGetIcons()
 		return {
 			icons: getIcons(state, ownProps)
 		}
 
 	}
+
 )(Icons)
 
 export const BannerCollection = connect(
@@ -46,10 +47,11 @@ export const BannerCollection = connect(
 export const TopBlock = connect(
 	
 	(state, ownProps) => {
-
+		const getIcons = makeGetIcons()
 		return {
 			apps: getIcons(state, ownProps)
 		}
 
 	}
+
 )(Top)

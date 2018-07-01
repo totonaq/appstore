@@ -34,7 +34,6 @@ const ModalCollection = ({ title, data }) => {
 				</Grid.Row>
 			</Grid>
 		</div>
-
 	)
 }
 
