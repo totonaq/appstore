@@ -24,10 +24,6 @@ const BannerLine = ({ data }) => {
 	)
 }
 
-BannerLine.defaultProps = {
-	data: []
-}
-
 BannerLine.propTypes = {
 	data: PropTypes.array.isRequired
 }

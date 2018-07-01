@@ -1,15 +1,12 @@
 import React from 'react'
-import apps from './../json/apps.json'
 import { Header, Modal } from 'semantic-ui-react'
 import ModalCollection from './ModalCollection'
 import Icon from './Icon'
 import PropTypes from 'prop-types'
 
-const IconsCollection = ({ title, currentDevice, category }) => {
+const IconsCollection = ({ title, icons }) => {
 
 	const iconLimit = 10;
-
-	const icons = apps[currentDevice][category];
 
 	const limitedIcons = icons.slice(0, iconLimit);
 
@@ -43,16 +40,11 @@ const IconsCollection = ({ title, currentDevice, category }) => {
 	)
 }
 
-IconsCollection.defaultProps = {
-	title: '',
-	currentDevice: '',
-	category: '',
-}
-
 IconsCollection.propTypes = {
 	title: PropTypes.string.isRequired,
-	currentDevice: PropTypes.string.isRequired,
-	category: PropTypes.string.isRequired
+	category: PropTypes.string.isRequired,
+	source: PropTypes.string.isRequired,
+	icons: PropTypes.array.isRequired
 }
 
 export default IconsCollection

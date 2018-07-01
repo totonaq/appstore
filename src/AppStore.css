@@ -47,7 +47,7 @@ header .buttons-wrap {
   clear: both;
   display: flex;
   margin: 20px 0;
-  overflow-x: scroll;
+  overflow-x: auto;
   padding-bottom: 20px;
 }
 .icons-collection-list-item,

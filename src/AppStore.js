@@ -29,15 +29,16 @@ const AppStore = () => {
               <IconCollection
                 title='Новое и интересное'
                 category='new'
+                source='apps'
               />
               <BannerCollection 
                 title='Популярные коллекции'
-                line1='banners-line-1'
-                line2='banners-line-2'
+                lines={['banners-line-1', 'banners-line-2']}
               />
               <IconCollection
                 title='Класика'
                 category='classic'
+                source='apps'
               />
               
             </Grid.Column>
@@ -47,10 +48,12 @@ const AppStore = () => {
               <TopBlock 
                 title='ТОП ПЛАТНЫХ ПРИЛОЖЕНИЙ'
                 category='paid'
+                source='top'
               />
               <TopBlock 
                 title='ТОП БЕСПЛАТНЫХ ПРИЛОЖЕНИЙ'
                 category='free'
+                source='top'
               />
               
             </Grid.Column>

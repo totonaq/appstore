@@ -30,15 +30,10 @@ const Icon = ({ data, children, size }) => {
 	)
 }
 
-Icon.defaultProps = {
-	data: {},
-	category: '',
-}
-
 Icon.propTypes = {
 	data: PropTypes.object.isRequired,
 	children: PropTypes.element,
-	category: PropTypes.string.isRequired
+	size: PropTypes.string.isRequired
 }
 
 export default Icon

@@ -13,10 +13,6 @@ const Banner = ({ src }) => {
 	)
 }
 
-Banner.defaultProps = {
-	src: ''
-}
-
 Banner.propTypes = {
 	src: PropTypes.string.isRequired
 }

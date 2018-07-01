@@ -38,11 +38,6 @@ const ModalCollection = ({ title, data }) => {
 	)
 }
 
-ModalCollection.defaultProps = {
-	data: [],
-	title: ''
-}
-
 ModalCollection.propTypes = {
 	data: PropTypes.array.isRequired,
 	title: PropTypes.string.isRequired

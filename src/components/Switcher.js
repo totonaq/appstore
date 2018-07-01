@@ -22,11 +22,6 @@ const Switcher = ({ currentDevice, onclick }) => {
 	)
 }
 
-Switcher.defaultProps = {
-	currentDevice: '',
-	onclick: () => {}
-}
-
 Switcher.propTypes = {
 	currentDevice: PropTypes.string.isRequired,
 	onclick: PropTypes.func.isRequired
