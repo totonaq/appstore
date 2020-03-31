@@ -24,6 +24,10 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "gh-pages": "^1.2.0"
+    "braces": "^2.3.1",
+    "eslint": "^6.8.0",
+    "gh-pages": "^1.2.0",
+    "mem": "^4.0.0",
+    "webpack-dev-server": "^3.10.3"
   }
 }
